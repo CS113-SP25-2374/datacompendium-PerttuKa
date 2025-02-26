@@ -14,5 +14,6 @@ public class Main {
         System.out.println(testArray);
 
         System.out.println("Hello world!");
+        //IteratorInterface<Integer> iterator = testArray.iterator();
     }
 }
